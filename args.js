@@ -1,2 +1,2 @@
 const nombre = process.argv
-console.log("Hola", arg[2]);
+console.log("Hola", nombre[2]);
